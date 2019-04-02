@@ -1,1 +1,3 @@
-this is a new test file created for the purse of git reporsitory to be pushed from local to remote 
+this is a new test file created for the purse of git reporsitory to be pushed from local to remote. 
+
+Following content is added in diferent branch
